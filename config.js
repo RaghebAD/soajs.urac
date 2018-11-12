@@ -48,9 +48,9 @@ module.exports = {
 		memory: ''
 	},
 	"serviceVersion": 1,
-	"serviceName": "urac",
-	"serviceGroup": "SOAJS Core Services",
-	"servicePort": 4001,
+	"serviceName": "uracragheb",
+	"serviceGroup": "SOAJS Core Services ragheb",
+	"servicePort": 5111,
 	"requestTimeout": 30,
 	"requestTimeoutRenewal": 5,
 	"hashIterations": 1024,
