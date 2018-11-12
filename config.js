@@ -47,7 +47,7 @@ module.exports = {
 		cpu: '',
 		memory: ''
 	},
-	"serviceVersion": 2,
+	"serviceVersion": 1,
 	"serviceName": "urac",
 	"serviceGroup": "SOAJS Core Services",
 	"servicePort": 4001,
