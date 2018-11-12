@@ -47,7 +47,7 @@ module.exports = {
 		cpu: '',
 		memory: ''
 	},
-	"serviceVersion": 2,
+	"serviceVersion": 1,
 	"serviceName": "uracragheb",
 	"serviceGroup": "SOAJS Core Services ragheb",
 	"servicePort": 5111,
