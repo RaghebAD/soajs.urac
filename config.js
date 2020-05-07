@@ -47,9 +47,10 @@ module.exports = {
 		cpu: '',
 		memory: ''
 	},
-	"serviceVersion": 1,
+	"serviceVersion": "1",
 	"serviceName": "uracragheb",
-	"serviceGroup": "SOAJS Core Services ragheb",
+	"serviceGroup": "SOAJS-ragheb",
+	"subtype": "soajs",
 	"servicePort": 5111,
 	"requestTimeout": 30,
 	"requestTimeoutRenewal": 5,
@@ -59,7 +60,7 @@ module.exports = {
 	"oauth": true,
 	"session": false,
 	"model": 'mongo',
-	
+	"description": "sadadasdasd",
 	"cmd": ["/etc/init.d/postfix start"],
 	
 	"maxStringLimit": 30,
