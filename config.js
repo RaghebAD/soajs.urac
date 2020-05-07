@@ -50,7 +50,7 @@ module.exports = {
 	"serviceVersion": "1",
 	"serviceName": "uracragheb",
 	"serviceGroup": "SOAJS-ragheb",
-	"subtype": "soajs",
+	"subType": "soajs",
 	"servicePort": 5111,
 	"requestTimeout": 30,
 	"requestTimeoutRenewal": 5,
